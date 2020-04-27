@@ -1,0 +1,61 @@
+PODS:
+  - Differentiator (4.0.1)
+  - FBRetainCycleDetector (0.1.4)
+  - MJRefresh (3.3.1)
+  - MLeaksFinder (1.0.0):
+    - FBRetainCycleDetector
+  - RxCocoa (5.1.0):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxDataSources (4.0.1):
+    - Differentiator (~> 4.0)
+    - RxCocoa (~> 5.0)
+    - RxSwift (~> 5.0)
+  - RxRelay (5.1.0):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.0)
+  - RZColorfulSwift (0.1.2)
+  - SnapKit (4.2.0)
+  - Then (2.6.0)
+
+DEPENDENCIES:
+  - MJRefresh
+  - MLeaksFinder
+  - RxCocoa
+  - RxDataSources
+  - RxSwift
+  - RZColorfulSwift
+  - SnapKit
+  - Then
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Differentiator
+    - FBRetainCycleDetector
+    - MJRefresh
+    - MLeaksFinder
+    - RxCocoa
+    - RxDataSources
+    - RxRelay
+    - RxSwift
+    - RZColorfulSwift
+    - Then
+  trunk:
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Differentiator: 886080237d9f87f322641dedbc5be257061b0602
+  FBRetainCycleDetector: 46f8179bbb1c587deee3ea838a1a3ee02acf5015
+  MJRefresh: eeda70fbf0ad277f3178cef1cd0c3532591d6237
+  MLeaksFinder: 8c435bd2f6d070af18cff082b503b21adc130fc0
+  RxCocoa: 13d2a4d7546a34b8ececae8c281e4ea1dbb94f2b
+  RxDataSources: efee07fa4de48477eca0a4611e6d11e2da9c1114
+  RxRelay: a168bd6caf712d00c676ac344e9295afc93b418e
+  RxSwift: ad5874f24bb0dbffd1e9bb8443604e3578796c7a
+  RZColorfulSwift: de1efb1f468b6f00f4225cb6242bfa2c5137b347
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  Then: 90cd104fd951cec1980a03f57704ad8f784d4d79
+
+PODFILE CHECKSUM: 7593e1d81c144281d216d5fdc3365394f2e3acc7
+
+COCOAPODS: 1.9.1
